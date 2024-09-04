@@ -1,0 +1,14 @@
+🌿 Dataset: Tomato Plant Leaf Disease Detection
+For this project, we utilized a comprehensive dataset of tomato plant leaf images, essential for training and evaluating our disease detection model.
+
+📂 Download the Dataset: https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
+
+The dataset can be downloaded from Kaggle using the following link: Tomato Leaf Disease Dataset.
+
+📦 What's Inside:
+
+-Training and Test Images: High-resolution images of tomato leaves are categorized into different classes, representing healthy leaves and those affected by various diseases.
+- Annotations: Labels indicating the disease type or whether the leaf is healthy are crucial for supervised learning.
+- Variety: The dataset includes images captured under different conditions and from various angles, ensuring a diverse and robust training set for model generalization.
+
+This dataset forms the backbone of our machine learning model, enabling it to accurately identify and classify tomato leaf diseases.
